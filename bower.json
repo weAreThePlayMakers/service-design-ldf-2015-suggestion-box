@@ -1,0 +1,26 @@
+{
+  "name": "service-design-ldf-2015-suggestion-box",
+  "version": "0.0.0",
+  "homepage": "https://github.com/weAreThePlayMakers/service-design-ldf-2015-suggestion-box",
+  "authors": [
+    "@rafszul <rafszul@gmail.com>",
+    "asano corp <asano.corp@gmail.com>",
+    "chris sevilleja <chris@scotch.io>"
+  ],
+  "description": "[service-design-ldf-2015-suggestion-box](https://suggestionboxsdldf2015.stamplayapp.com/) with authentication and some gamification added",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-stamplay": "*",
+    "angular": "~1.4.4",
+    "ionicons": "~2.0.1",
+    "bootstrap": "~3.3.5",
+    "stamplay-sdk": "~1.2.8"
+  }
+}

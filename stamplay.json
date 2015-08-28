@@ -1,0 +1,10 @@
+{
+  "appId": "suggestionboxsdldf2015",
+  "apiKey": "1326edfc3e05ecebdeec772fe7e1791d7550da2cb57739295a3d880a9c8e4c63",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
